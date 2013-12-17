@@ -1,0 +1,18 @@
+{
+  "name": "mp3-server",
+  "version": "0.0.0",
+  "description": "mp3-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smhg/mp3-server"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "binaryjs": "~0.2.0"
+  }
+}
