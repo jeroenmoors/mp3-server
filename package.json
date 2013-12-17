@@ -13,6 +13,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "binaryjs": "~0.2.0"
+    "binaryjs": "~0.2.0",
+    "mp3-parser": "~0.1.13"
   }
 }
